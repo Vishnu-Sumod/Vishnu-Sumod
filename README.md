@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishnu ks
 - 🌱 I’m currently learning DSA & Frontend
-- 📫 How to reach me @ vishnusumodh@gmail.com
+- 📫 Reach me @ vishnusumodh@gmail.com
 
 <!---
 Vishnu-Sumod/Vishnu-Sumod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
